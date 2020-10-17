@@ -177,8 +177,9 @@ body {
 	margin-right: 10px;
 	background-size: contain;
 }
-.icon-mail:hover,
-.icon-tell:hover {
+
+.contact:hover .icon-mail,
+.contact:hover .icon-tell {
 	fill: var(--accent-color);
 }
 
